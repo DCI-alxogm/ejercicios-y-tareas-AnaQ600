@@ -28,6 +28,7 @@ int main()
 	//Salida
 
 	printf("Las coordenadas esfericas son: r=%f, thetha=%f y phi=%f\n", r,thetha,phi);
+
 	printf("Las coordenadas cilindricas son: rc=%f,thetha_c=%f y zc=%f", rc,thetha_c,zc);
 
 	
