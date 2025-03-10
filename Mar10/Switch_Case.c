@@ -22,6 +22,9 @@ int main ()
 			resultado=tem-273.15;
 			printf("La temperatura en grados Celsius es: %f \n", resultado);
 		break;
+		
+		default:
+		printf("Estaq opcion no existe, solo tienes las opciones a o b\n");
 	}
 	
 	printf("Fin\n");
