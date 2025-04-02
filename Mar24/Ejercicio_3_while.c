@@ -13,7 +13,7 @@ int main()
 	{
 		temp_K=0. ;
 		temp_C=inicial;
-
+g
 	while(temp_C<=final){
 		temp_K=temp_C+273.15;
 		printf("%f %f \n", temp_C, temp_K);
