@@ -21,7 +21,7 @@ leernumero:
     }
 
     printf("¿Quieres revisar otro numero? (si/no)\n");
-    scanf("%s", opc);  // Don't need '&' for the array
+    scanf("%s", opc); 
     
     if (strcmp(opc, "si") == 0)
     {
